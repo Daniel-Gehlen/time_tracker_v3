@@ -6,7 +6,7 @@
 APP_NAME="activity-monitor"
 VERSION="1.0"
 ICON_URL="https://www.flaticon.com/free-icon/folder_2521653"
-MAINTAINER="Daniel Gehlen <danielgehlentech@gmail.com>"
+MAINTAINER="Seu Nome <seu@email.com>"
 
 # --- Criar estrutura de pastas ---
 echo "Criando estrutura de diretórios..."
